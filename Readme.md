@@ -44,8 +44,8 @@ A Telegram bot built in Python that generates authentic short and long tweets fo
 
 3. **Clone this repo**  
    ```bash
-   git clone https://github.com/yourusername/trazen-tweetcraft-bot.git
-   cd trazen-tweetcraft-bot
+   git clone https://github.com/MaryEjairu/TweetCraft.git
+   cd TweetCraft
 
 4. Set environment variables
 Create a .env file in the root folder with:
