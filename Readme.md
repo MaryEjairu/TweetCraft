@@ -1,4 +1,4 @@
-# Trazen TweetCraft Bot
+# TweetCraft Bot
 
 A Telegram bot built in Python that generates authentic short and long tweets for the Web3 community using OpenAI’s GPT-3.5 API. This bot listens to user messages and replies with creative tweet ideas tailored to the user’s input, perfect for Web3 projects, communities, and enthusiasts looking for engaging content.
 
