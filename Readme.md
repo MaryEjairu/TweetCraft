@@ -49,19 +49,21 @@ A Telegram bot built in Python that generates authentic short and long tweets fo
 
 4. Set environment variables
 Create a .env file in the root folder with:
+   ```
+   TELEGRAM_BOT_TOKEN=your-telegram-bot-token
 
-TELEGRAM_BOT_TOKEN=your-telegram-bot-token
-OPENAI_API_KEY=your-openai-api-key
+   OPENAI_API_KEY=your-openai-api-key
 
 
 5. Install dependencies
+     ```
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 6. Run the bot
-
-python main.py
+   ```
+   python main.py
 
 
 7. Start chatting
